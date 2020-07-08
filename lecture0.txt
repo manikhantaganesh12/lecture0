@@ -22,6 +22,8 @@
 
 	from local again
 
+	conflict line from local
+
 
 </body>	
 
