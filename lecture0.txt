@@ -12,6 +12,9 @@
 
 	Hello,World! from GitHub
 
+	Adding more text from local machine
+
+
 </body>	
 
 </html>
