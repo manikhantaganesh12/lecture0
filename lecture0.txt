@@ -21,6 +21,8 @@
 	from github2 again
 
 	from local again
+	
+	conflict line form GitHub
 
 
 </body>	
